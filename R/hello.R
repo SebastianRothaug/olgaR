@@ -19,3 +19,5 @@ hello <- function() {
 
 Test Git
 
+Test Git 2
+
